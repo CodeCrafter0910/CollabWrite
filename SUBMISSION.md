@@ -36,7 +36,7 @@ I picked these because they let me move fast while still building something prod
 ✅ **AI_WORKFLOW.md** - How I used AI tools and what I learned  
 ✅ **Tests** - API test suite with 18+ tests covering the main flows  
 ✅ **Live URL** - https://collabwrite-bcsw.onrender.com  
-⏳ **Video Walkthrough** - Will record and add link here  
+✅ **Video Walkthrough** - https://www.loom.com/share/f0084778ef9e4763848d256c27abe095  
 
 ## How to Test It
 
@@ -195,4 +195,4 @@ Thanks for your time reviewing this! Happy to answer any questions.
 **Time Spent:** ~5-6 hours  
 **GitHub:** https://github.com/CodeCrafter0910/CollabWrite  
 **Live Demo:** https://collabwrite-bcsw.onrender.com  
-**Video Walkthrough:** *(will add here)*
+**Video Walkthrough:** https://www.loom.com/share/f0084778ef9e4763848d256c27abe095
