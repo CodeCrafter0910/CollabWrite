@@ -4,6 +4,9 @@ A lightweight collaborative document editor built as a full-stack web applicatio
 
 ![CollabWrite](https://img.shields.io/badge/status-working-green) ![Node.js](https://img.shields.io/badge/node-%3E%3D18-blue) ![License](https://img.shields.io/badge/license-MIT-gray)
 
+**Live Demo:** https://collabwrite-bcsw.onrender.com  
+**GitHub:** https://github.com/CodeCrafter0910/CollabWrite
+
 ---
 
 ## Features

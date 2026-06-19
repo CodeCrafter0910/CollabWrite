@@ -30,12 +30,12 @@ I picked these because they let me move fast while still building something prod
 
 ## What's Included in This Submission
 
-✅ **Source Code** - Everything's in this repo  
+✅ **Source Code** - https://github.com/CodeCrafter0910/CollabWrite  
 ✅ **README.md** - Setup instructions and project overview  
 ✅ **ARCHITECTURE.md** - My technical decisions and why I made them  
 ✅ **AI_WORKFLOW.md** - How I used AI tools and what I learned  
 ✅ **Tests** - API test suite with 18+ tests covering the main flows  
-⏳ **Live URL** - Will add once deployed  
+✅ **Live URL** - https://collabwrite-bcsw.onrender.com  
 ⏳ **Video Walkthrough** - Will record and add link here  
 
 ## How to Test It
@@ -193,5 +193,6 @@ Thanks for your time reviewing this! Happy to answer any questions.
 
 **Project:** CollabWrite  
 **Time Spent:** ~5-6 hours  
-**Deployment URL:** *(will add here)*  
+**GitHub:** https://github.com/CodeCrafter0910/CollabWrite  
+**Live Demo:** https://collabwrite-bcsw.onrender.com  
 **Video Walkthrough:** *(will add here)*
