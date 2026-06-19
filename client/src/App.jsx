@@ -37,7 +37,7 @@ function PublicRoute({ children }) {
   }
 
   if (user) {
-    return <Navigate to="/" replace />;
+    return <Navigate to="/dashboard" replace />;
   }
 
   return children;
@@ -79,7 +79,7 @@ export default function App() {
             }
           />
           <Route
-            path="/"
+            path="/dashboard"
             element={
               <ProtectedRoute>
                 <Dashboard />
@@ -94,8 +94,17 @@ export default function App() {
               </ProtectedRoute>
             }
           />
-          {/* Catch-all — redirect to home */}
-          <Route path="*" element={<Navigate to="/" replace />} />
+          {/* Root redirects to dashboard if logged in, otherwise to login via ProtectedRoute */}
+          <Route
+            path="/"
+            element={
+              <ProtectedRoute>
+                <Navigate to="/dashboard" replace />
+              </ProtectedRoute>
+            }
+          />
+          {/* Catch-all — redirect to login */}
+          <Route path="*" element={<Navigate to="/login" replace />} />
         </Routes>
       </AuthProvider>
     </BrowserRouter>

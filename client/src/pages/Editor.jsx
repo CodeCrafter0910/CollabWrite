@@ -121,7 +121,7 @@ export default function Editor() {
         <div className="icon">😕</div>
         <h2>Can&apos;t open document</h2>
         <p>{error}</p>
-        <button className="btn-primary" onClick={() => navigate('/')}>
+        <button className="btn-primary" onClick={() => navigate('/dashboard')}>
           Back to Dashboard
         </button>
       </div>
@@ -133,7 +133,7 @@ export default function Editor() {
       {/* Editor header */}
       <div className="editor-header">
         <div className="editor-header-left">
-          <button className="editor-back-btn" onClick={() => navigate('/')}>
+          <button className="editor-back-btn" onClick={() => navigate('/dashboard')}>
             ← Back
           </button>
           <input
